@@ -7,12 +7,16 @@ management system (EMS), including recruitment, offboarding and
 performance management. Using a dedicated EMS can help an HR 
 manager streamline the hiring process and improve workplace 
 efficiency.
+<br> <br>
+
 Employee Management system is an application-based program, 
-having 4 sub tasks:
-• To remove an employee
-• To display the list of employees
-• To add an employee
+having 4 sub tasks: <br>
+• To remove an employee <br>
+• To display the list of employees <br>
+• To add an employee <br>
 • To search for an employee in the list
+
+<br> <br>
 Every organisation, be it schools, governments, offices etc, use an 
 employee management system to keep track of the employees. This 
 employee system keeps data secured and updated for future 
