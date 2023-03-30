@@ -1,5 +1,5 @@
 # Employee-Management-System
-INTRODUCTION
+<u><b>INTRODUCTION </b></u>
 Employee management is a practice that helps a manager improve 
 employee productivity and satisfaction to help an organisation reach 
 its goals. Human resources (HR) professionals often use an employee 
@@ -16,9 +16,32 @@ having 4 sub tasks: <br>
 • To add an employee <br>
 • To search for an employee in the list
 
-<br> <br>
+<br> 
 Every organisation, be it schools, governments, offices etc, use an 
 employee management system to keep track of the employees. This 
 employee system keeps data secured and updated for future 
 reference. The program is written in Python language and utilises 
 MySQL database to store the data and access it.
+<br> <br>
+<u><b> OBJECTIVE </b></u><br>
+The objective of employee management system is to design a system 
+which manages the employee data within a small company or 
+organisation.<br>
+This project simplifies the task of maintaining records due to its user-friendly nature.
+This system has been developed to override problems prevailing in the 
+practising of manual system. Software supports the elimination of 
+hardships faced by the manual system.<br><br>
+<u><b>SYSTEM IMPLEMENTATION </b></u><br>
+Hardware used:<br>
+The following are the minimum hardware requirements:
+• Minimum 32 GB memory space
+• Intel processor of 1 GHz or more
+• Pen drive or CD drive to transport files
+• System which has python 3.10 and MySQL database installed.
+• QWERTY Keyboard<br>
+SOFTWARE REQUIREMENTS:
+• Operating system recommended are Windows, Linux or MacOS
+• Developing Language --- Python v3.10
+• Database --- MySQL 8.0 
+The above elementary hardware and software devices were 
+used for optimum performance
