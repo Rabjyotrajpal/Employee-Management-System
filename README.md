@@ -41,10 +41,12 @@ The following are the minimum hardware requirements:<br>
 • Intel processor of 1 GHz or more <br>
 • Pen drive or CD drive to transport files <br>
 • System which has python 3.10 and MySQL database installed. <br>
-• QWERTY Keyboard<br>
+• QWERTY Keyboard<br> <br>
+
 SOFTWARE REQUIREMENTS: <br>
 • Operating system recommended are Windows, Linux or MacOS <br>
 • Developing Language --- Python v3.10 <br>
-• Database --- MySQL 8.0 <br>
+• Database --- MySQL 8.0 <br><br>
+
 The above elementary hardware and software devices were 
 used for optimum performance
