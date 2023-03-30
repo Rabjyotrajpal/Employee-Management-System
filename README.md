@@ -1,5 +1,5 @@
 # Employee-Management-System
-<u><b>INTRODUCTION </b></u>
+<u><b>INTRODUCTION </b></u> <br>
 Employee management is a practice that helps a manager improve 
 employee productivity and satisfaction to help an organisation reach 
 its goals. Human resources (HR) professionals often use an employee 
@@ -24,7 +24,7 @@ reference. The program is written in Python language and utilises
 MySQL database to store the data and access it.
 <br> <br>
 
-<u><b> OBJECTIVE </b></u><br>
+<b><u> OBJECTIVE </u></b><br>
 The objective of employee management system is to design a system 
 which manages the employee data within a small company or 
 organisation.<br>
